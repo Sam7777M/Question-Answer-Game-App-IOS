@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-10 at 04 24 18](https://github.com/Sam7777M/Question-Answer-Game-App-IOS/assets/148392034/897906e3-b3fc-4d1c-84f9-4e98ecda6c20)# Trivia Question Answer Game App
+# Trivia Question Answer Game App
 
 It is a game app for IOS in which user can answer different question based on the user's knowledge
 It welcomes user, shows question, shows response is right or wrong and finally shows result based on answer.
